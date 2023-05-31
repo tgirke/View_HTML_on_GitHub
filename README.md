@@ -11,4 +11,4 @@
 
 ### URL Example
 The HTML file `systemPipeRNAseq.html` of this GitHub repos can be opened and viewed via the following URL:
-+ [https://girke.bioinformatics.ucr.edu/today_test/systemPipeRNAseq.html](https://girke.bioinformatics.ucr.edu/today_test/systemPipeRNAseq.html)
++ [https://girke.bioinformatics.ucr.edu/View_HTML_on_GitHub/systemPipeRNAseq.html](https://girke.bioinformatics.ucr.edu/View_HTML_on_GitHub/systemPipeRNAseq.html)
